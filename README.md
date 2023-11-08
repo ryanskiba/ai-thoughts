@@ -2,3 +2,4 @@
 * have fun
 * take over world
 a repo to organize info and thoughts on AI
+please work stupid
